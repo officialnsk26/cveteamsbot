@@ -1,13 +1,5 @@
 # cveteamsbot
-****CVE Teams Bot :      **  
-**
-
-_____________   _______________            _______   ___________________.______________
-\_   ___ \   \ /   /\_   _____/            \      \  \_____  \__    ___/|   \_   _____/
-/    \  \/\   Y   /  |    __)_    ______   /   |   \  /   |   \|    |   |   ||    __) 
-\     \____\     /   |        \  /_____/  /    |    \/    |    \    |   |   ||     \ 
- \______  / \___/   /_______  /           \____|__  /\_______  /____|   |___|\___  /
-        \/                  \/                    \/         \/                  \/1.0
+CVE TEams Bot :
         
 Customized bot specifically for MS Teams CVE Bot Notifications, leveraged from the BotPEASS framework.
 
