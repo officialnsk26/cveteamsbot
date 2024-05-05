@@ -1,5 +1,5 @@
-# cveteamsbot
-CVE TEams Bot :
+# CVE Teams Bot
+
         
 Customized bot specifically for MS Teams CVE Bot Notifications, leveraged from the BotPEASS framework.
 
